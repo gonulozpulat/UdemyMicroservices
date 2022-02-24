@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOV1pCpiY0mGZI7a5R7N0syk69De0yMtKfDWJhK2JmBlHbyHyE9M426b2zIsvrDZ3ZUMpMOJhXbfblZ5b7LkfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

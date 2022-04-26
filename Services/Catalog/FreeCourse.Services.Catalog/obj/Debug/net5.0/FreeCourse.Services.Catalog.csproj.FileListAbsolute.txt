@@ -50,3 +50,10 @@ C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Servic
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

@@ -57,3 +57,4 @@ C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Servic
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\source\repos\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.csproj.CopyComplete

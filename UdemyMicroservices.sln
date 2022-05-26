@@ -30,6 +30,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{9E8CB7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Free.Course.Services.Basket", "Services\Basket\Free.Course.Services.Basket\Free.Course.Services.Basket.csproj", "{4E5FF6F0-3D9B-4A8F-BE93-E93B82EFA64A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{6367B03B-BC1B-4AD3-BC3E-65F8F074FE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Discount", "Services\Discount\FreeCourse.Services.Discount\FreeCourse.Services.Discount.csproj", "{84B0C66A-7EC3-4611-A0F8-98DBB934179C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,10 @@ Global
 		{4E5FF6F0-3D9B-4A8F-BE93-E93B82EFA64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E5FF6F0-3D9B-4A8F-BE93-E93B82EFA64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E5FF6F0-3D9B-4A8F-BE93-E93B82EFA64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B0C66A-7EC3-4611-A0F8-98DBB934179C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B0C66A-7EC3-4611-A0F8-98DBB934179C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B0C66A-7EC3-4611-A0F8-98DBB934179C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B0C66A-7EC3-4611-A0F8-98DBB934179C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +77,8 @@ Global
 		{11AB903D-E20E-4B45-A6C9-A2163D4BCDDD} = {A8E51C3E-1E10-4B1B-B20E-263D770F9199}
 		{9E8CB70C-70C1-43FC-87B1-BBFA020D5C61} = {DF808114-E7CF-4E69-9DA7-F90F1E59B3E3}
 		{4E5FF6F0-3D9B-4A8F-BE93-E93B82EFA64A} = {9E8CB70C-70C1-43FC-87B1-BBFA020D5C61}
+		{6367B03B-BC1B-4AD3-BC3E-65F8F074FE32} = {DF808114-E7CF-4E69-9DA7-F90F1E59B3E3}
+		{84B0C66A-7EC3-4611-A0F8-98DBB934179C} = {6367B03B-BC1B-4AD3-BC3E-65F8F074FE32}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DCC6ECC-566E-4B11-9356-164BF4DC61AA}

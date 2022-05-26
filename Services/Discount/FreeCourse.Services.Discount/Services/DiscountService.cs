@@ -12,7 +12,7 @@ namespace FreeCourse.Services.Discount.Services
 {
     public class DiscountService : IDiscountService
     {
-        private readonly IConfiguration _configuration; //option pattern kullanmadım. direk configürasyon interface üzerinden db'ye bağlanıcam.appsettings üzerinden class tanımlyıp class üzerinden de configürasyon dosyasını okuyabilirdim.
+        private readonly IConfiguration _configuration;
         private readonly IDbConnection _dbConnection;
 
         public DiscountService(IConfiguration configuration)

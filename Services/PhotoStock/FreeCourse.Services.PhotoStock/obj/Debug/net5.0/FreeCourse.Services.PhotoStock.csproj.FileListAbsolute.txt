@@ -35,4 +35,3 @@ C:\Users\Asus\source\repos\UdemyMicroservices\Services\PhotoStock\FreeCourse.Ser
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\FreeCourse.Shared.dll
 C:\Users\Asus\source\repos\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\FreeCourse.Shared.pdb
-C:\Users\Asus\source\repos\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net5.0\FreeCourse.Services.PhotoStock.csproj.CopyComplete
